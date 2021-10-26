@@ -1,0 +1,140 @@
+P:dentista
+D:Profissão
+D:Responsável pelo tratamento das doenças do sistema estomatognático e estruturas anexas
+D:Realiza tratamentos estéticos
+D:Seu local de trabalho são os consultórios
+D:Muitas pessoas tem medo
+D:Cuida da saúde bucal
+P:advogado
+D:Profissão
+D:Profissional que orienta, aconselha, representa e defende os direitos e os interesses dos clientes, seja em juízo ou fora dele
+D:O seu salário pode ultrapassar os R$ 10.000
+D:Precisa de bacharel em Direito
+D:OAB
+D:O Beiçola é
+P:pedagogo
+D:Profissão
+D:Educador profissional
+D:Capaz de atuar em espaços escolares e em não-escolares
+D:Mediar o trabalho pedagógico
+D:Às vezes é confundido com professor
+D:Pode ter alguma especialização
+P:enfermeiro
+D:Profissão
+D:Pode trabalhar tanto com assistência a pacientes quanto assumir cargos administrativos
+D:Ele está apto a atender pacientes em estado grave ou com alto grau de complexidade
+D:O seu salário médio é de R$ 3.500
+D:Ramo da Medicina
+D:Cruz vermelha
+P:engenheiro
+D:Profissão
+D:Se ocupa do projeto, da operação e da manutenção de equipamentos e sistemas de telecomunicações
+D:Precisa ter um amplo conhecimento de Física
+D:Na faculdade aprendem Cálculo
+D:Profissão que vêm crescendo nos últimos anos
+D:Pode ser mecânico, elétrico,ambiental...
+P:recepcionista
+D:Profissão
+D:Profissional responsável pelo atendimento ao público
+D:Realiza agendamentos, fornece informações e orienta a circulação de pessoas e visitantes
+D:Precisa se vestir de uma forma elegante
+D:Nunca pode fofocar
+D:Precisa ter experiência
+P:taxista
+D:Profissão
+D:Placa Vermelha
+D:O seu instrumento de trabalho é um carro
+D:Possuem isenção ao comprar o carro
+D:Agostinho Carrara é um
+D:Hoje em dia usam apps como 99taxi,Wappa e Easy
+P:terapeuta ocupacional
+D:Profissão
+D:Área responsável por promover a saúde e bem-estar das pessoas com problemas físicos, sensoriais, sociais e motores
+D:É uma graduação de nível superior com titulação de bacharelado
+D:Sua sigla é TO
+D:A duração de seu curso é de 4 anos
+D:Utiliza atividades humanas com fins terapêuticos
+P:otorrinolaringologista
+D:Profissão
+D:Muitos o visitam quando estão com dores no ouvido e congestão nasal, principalmente
+D:Derivado das palavras gregas para orelha, nariz, e garganta
+D:Se expandiu nos últimos 50 anos e agora compreende uma especialidade regional de cabeça e pescoço
+D:O orgão dessa profissão é o ABOto
+D:Devem completar 04 (quatro) anos de Faculdade e depois 04 (quatro) anos de Faculdade de Medicina.
+P:tatuador
+D:Profissão
+D:Profissional que elabora desenhos e utiliza técnicas para imortalizar esse desenho na pele de seus clientes
+D:Geralmente aprendem seu ofício por meio de um aprendizado com um mentor treinado e experiente
+D:Tem estúdios
+D:Podem aplicar piercings também
+D:Precisa de muita habilidade
+P:tenista
+D:Profissão
+D:Área do esporte
+D:Participa de torneios, como Roland Garros
+D:Antes dos jogos, come cerca de 12 bananas para evitar câimbras
+D:Segura uma raquete na mão
+D:Guga era um ótimo .......
+P:farmaceutico
+D:Profissão
+D:Profissional da área da saúde
+D:Foi evoluindo ao longo dos séculos, substituindo os antigos boticários, que vendiam e produziam medicamentos a partir de ativos naturais
+D:Desenvolve remédios a partir, principalmente, de componentes sintéticos
+D:Faz o desenvolvimento de produtos de beleza e cosméticos também, uma área em grande ascensão nos últimos anos
+D:O salário médio é de R$3.168,91
+P:silvicutor
+D:Profissão
+D:Ciência dedicada ao estudo dos métodos naturais e artificiais de regenerar e melhorar os povoamentos florestais
+D:Aplicação desse estudo para a manutenção, o aproveitamento e o uso racional das florestas
+D:Evitar pragas e doenças que ameaçam a biodiversidade
+D:Servir de apoio às indústrias que exploram os recursos naturais para fins comerciais através do reflorestamento
+D:A média salarial para esse profissional é de R$ 2.000
+P:astronomo
+D:Profissão
+D:É possível trabalhar em centros de pesquisas espaciais
+D:é comum que trabalhe apenas na área de pesquisa
+D:Cientista que estuda corpos celestes como planetas, estrelas e galáxias
+D:Não pode ser gato, porque .........
+D:Galileu Galilei, Albert Einstein e Isaac Newton eram
+P:veterinario
+D:Profissão
+D:5 anos de estudo
+D:CRMV
+D:Precisa ter uma postura de forma ética e cuidadosa
+D:É preciso gostar de animais
+D:Profissional que cuida da saúde e do bem-estar de animais
+P:administrador
+D:Profissão
+D:Pensamentos crítico e sistêmico
+D:Pode ser de grandes corporações, empresas...
+D:O lema dessa profissão é: planejar, organizar, comandar, coordenar e controlar
+D:CEO
+D:O Gondo é
+P:apresentador
+D:Profissão
+D:Globo,SBT,Band tem um monte
+D:Pode ser de TV,rádio...
+D:Pessoa que introduz ou comanda um programa de televisão ou segmentos do mesmo
+D:É comum que celebridades de outras áreas assumam esse papel
+D:Silvio Santos, Luciano Hulk e o Faustão são
+P:contador
+D:Profissão
+D:Precista ter o CRC para exercer essa profissão
+D:Exerce funções na área financeira
+D:Faz Imposto de Renda
+D:Responsável pelas rotinas contábeis de qualquer empresa
+D:Trabalha na área da contabilidade
+P:cozinheiro
+D:Profissão
+D:Gastronomia
+D:Os da França são os melhores
+D:O Masterchef tem muito
+D:Prepara alimentos
+D:O Jacquin é
+P:programador
+D:Profissão
+D:É da área de TI
+D:Pode ser chamado também de desenvolvedor
+D:Cria funcionalidades para programas
+D:Utiliza linguagens de programação, como C++,Java,Pyton...
+D:O Viotti é

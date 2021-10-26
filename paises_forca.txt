@@ -1,0 +1,217 @@
+P:brasil
+D:paises
+D:está localizado na américa do sul
+D:a capital desse país se chama Brasília
+D:a moeda desse país se chama Real
+D:o atual Presidente se chama Jair Bolsonaro
+D:faz divisa com a Argentina
+P:russia
+D:paises
+D:está localizado na Europa/Asia
+D:fez parte da união soviética
+D:a capital desse país se chama moscou
+D:o atual presidente desse pais se chama Vladimir Putin 
+D:recebeu a copa do mundo de futebol de 2018
+P:alemanha
+D:paises
+D:sua capital se chama Berlim
+D:a moeda se chama euro
+D:já teve como presidente Adolf Hitler
+D:Participou da segunda guerra mundial
+D:os habitantes desse país adoram cerveja
+P:italia
+D:paises
+D:sua capital se chama Roma
+D:tem o formato de uma bota
+D:a pizza foi criada nesse pais
+D:a fiat se originou nesse país
+D:perdeu a copa do mundo de futebol de 1994 para a seleção brasileira
+P:espanha
+D:paises
+D:sua capital se chama madrid
+D:colonizou diversos paises da america latina
+D:a catalunha está localizada nesse país
+D:a moeda desse país se chama euro
+D:já sediou diversos eventos esportivos
+P:estados unidos
+D:paises
+D:sua capital se chama Washington
+D:o atual presidente se chama Joe Biden
+D:país com a maior economia do mundo
+D:a moeda se chama dollar
+D:foi colonizado pelos ingleses
+P:japao
+D:paises
+D:sua capital se chama Tóquio
+D:está localizado na ásia
+D:a moeda desse país se chama Iene
+D:possui uma das maiores economias do mundo
+D:o sushi foi criado nesse país
+P:china
+D:paises
+D:sua capital se chama pequim
+D:o atual presidente se chama xi jinping
+D:criou a vacina coronavac
+D:está localizado na ásia
+D:a moeda se chama renminbi
+P:irlanda
+D:paises
+D:sua capital se chama dublin
+D:destino de muitos brasileiros que desejam fazer intercâmbio
+D:terra natal da banda u2
+D:o presidente desse pais se chama michael higgins 
+D:ingressou na união europeia em 01 de janeiro de 1973
+P:nova zelandia
+D:paises
+D:sua capital se chama wellington
+D:teve baixos índices de contaminação por coronavírus
+D:fica na oceania
+D:a cidade mais populosa desse país se chama auckland 
+D:um dos idiomas desse país se chama maori 
+P:india
+D:paises
+D:Localizado na Asia
+D:Rio Ganges corta desse país
+D:Madre Teresa de Calcutá
+D:Mahatma Gandhi
+D:Segundo país mais populoso do mundo
+P:camaroes
+D:paises
+D:Localizado na Africa
+D:Samuel Eto'o é desse país
+D:Sua capital é Yaoundé
+D:Presidente chama Paul Biya
+D:fruto do mar
+P:austria
+D:paises
+D:Relevo alpino acidentado
+D:É cortada pelo Rio Danúbio e abriga os palácios Schonbrunn e Hofburg
+D:Seu presidente é Alexander van der Bellen
+D:Mozart nasceu lá
+D:Hitler nasceu lá
+P:mexico
+D:paises
+D:Praias paradisíacas
+D:Ruínas antigas, como Teotihuacán e a cidade maia de Chichén Itzá
+D:América Central
+D:A pimenta é o seu forte
+D:O Chaves é desse país
+P:paquistao
+D:paises
+D:Sua capital é Islamabade
+D:É o quinto país mais populoso do mundo e, com uma área de 796.095 quilômetros quadrados
+D:Os seus idiomas são o Urdu e o Inglês
+D:Seu presidente é Arif Alvi
+D:A religião oficial é o Islamismo
+P:singapura
+D:paises
+D:Em sua independência, o país foi liderado por Lee Kuan Yew,
+D:Localização estratégica
+D:Seu presidente é Halimah Yacob
+D:Projeto habitacional de Maluf
+D:Localizada na Asia
+P:noruega
+D:paises
+D:A Água potável desse país é quase 100% limpa
+D:Resort olímpico de Lillehammer fica nesse país
+D:País Nórdico
+D:Navios vikings preservados do século IX são exibidos no Museu do Navio Viking, localizado nesse país
+D:Haaland é desse país
+P:venezuela
+D:paises
+D:Há ilhas turísticas tropicais como a Isla de Margarita e o arquipélago Los Roques
+D:Situado na Améria do Sul
+D:País vive um caos político
+D:Rica em petróleo
+D:Sofre com ditadura até os dias de hoje
+P:franca
+D:paises
+D:Rica literatura
+D:Teve uma revolução em 1789
+D:Ganhou do Brasil em 1998
+D:Torre Eiffel
+D:País da gastronomia
+P:egito
+D:paises
+D:Cultura milenar
+D:Biblioteca de Alexandria
+D:Rio Nilo
+D:País das pirâmides
+D:Mohamed Salah é desse país
+P:catar
+D:paises
+D:Abrange um deserto árido e um longo litoral no Golfo Pérsico (Árabe) repleto de praias e dunas
+D:País riquíssimo
+D:Sua capital é Doha
+D:Pais recebeu o mundial de clubes de 2020
+D:País sediará a copa do mundo de 2022
+P:polonia
+D:paises
+D:conhecido por sua arquitetura medieval e pela herança judaica
+D:Seu presidente é Andrzej Duda
+D:Sua história começa no reinado de Mieszko I
+D:Campo de concentração de Auschwitz fica nesse país
+D:Lewandovski é desse país
+P:macedonia
+D:paises
+D:Nação balcânica sem saída para o mar
+D:Possui arquitetura otomana e europeia
+D:Sua capital é Skopje
+D:Seu presidente é Stevo Pendarovski
+D:Um dos seus idiomas é o Albanês
+P:moldavia
+D:paises
+D:País do Leste Europeu e antiga república soviética
+D:Entre suas regiões vinícolas estão Nistreana, conhecida pelos vinhos tintos, e Codru, que abriga algumas das maiores adegas do mundo
+D:Sua capital é Chisinau
+D:Seu presidente é Maia Sandu
+D:Expõe coleções de arte e etnográficas que refletem os laços culturais com a vizinha Romênia
+P:grecia
+D:paises
+D:Milhares de ilhas espalhadas pelos mares Egeu e Jônico
+D:Atenas e Esparta é desse país
+D:Localizado no mediterrâneo
+D:berço da filosofia
+D:Tem um arroz dessa nacionalidade
+P:paraguai
+D:paises
+D:Sua moeda é o Guarani
+D:Seu presidente é Mario Abdo Benítez
+D:Onde está localizado o Museo del Barro, que exibe peças de cerâmica pré-colombianas e rendas nhanduti 
+D:País sem saída para o mar 
+D:País que faz fronteira com o Brasil
+P:groenlandia
+D:paises
+D:Enorme ilha e um território dinamarquês autônomo entre o Atlântico Norte e o Oceano Ártico
+D:A pequena população, em sua maioria, vive ao longo da costa sem gelo e repleta de fiordes, especialmente no sudoeste
+D:Sua capital é Nuuk
+D:País muito frio
+D:O país é um dos maiores produtores de bacalhau do mundo
+P:bulgaria
+D:paises
+D:A capital é Sófia
+D:Seu presidente se chama Rumen Radev
+D:Nação balcânica
+D:Abrange a costa do Mar Negro
+D:Caldeirão cultural com influências gregas, eslavas, otomanas e persas
+P:turquia
+D:paises
+D:Sua população é de 82 milhões de pessoas
+D:Conexões culturais com os antigos impérios grego, persa, romano, bizantino e otomano
+D:Nação que se estende do leste da Europa ao oeste da Ásia
+D:Sua capital é Ancara
+D:Basílica de Santa Sofia
+P:holanda
+D:paises
+D:Abaixo do nível médio do mar
+D:O país é uma monarquia constitucional parlamentar democrática banhada pelo mar do Norte a norte e a oeste
+D:Eliminou o Brasil na copa do mundo de 2010
+D:Robben é um dos principais jogadores desse país
+D:Países baixos
+P:peru
+D:paises
+D:País faz fronteira com o Brasil
+D:Coleções importantes de arte pré-colombiana estão nesse país
+D:É rica em sítios arqueológicos
+D:Sua capital é um tipo de laranja
+D:Alguns goleiros tomam

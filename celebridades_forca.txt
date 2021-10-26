@@ -1,0 +1,190 @@
+P:silvio santos
+D:Celebridades
+D:SBT
+D:Nasceu no RJ
+D:Possui mais de 60 anos de carreira
+D:Senor Abravanel
+D:Roda roda Jequiti, Tele-Sena,Câmeras escondidas são uma das atrações de seu programa
+P:raul gil
+D:Celebridades
+D:Nasceu em 1938
+D:Natural de SP
+D:Apresentador de televisão
+D:SBT
+D:Jogo do banquinho
+P:luciano hulk
+D:Celebridades
+D:Sobrenome de herói
+D:Queria ser candidato a presidente
+D:Narigudo
+D:Casado com a Angélica
+D:The Wall
+P:angelina jolie
+D:Celebridades
+D:Estreou no cinema ao lado de seu pai, Jon Voight
+D:Natural de Los Angeles
+D:Atriz, cineasta e ativista humanitária americana.
+D:Já casou com Brad Pitt
+D:Fez o papel da Malévola
+P:willian bonner
+D:Celebridades
+D:É natural de São Paulo
+D:Tem 3 filhos
+D:Cabelo grisalho
+D:Separou-se da Fátima Bernardes em 2016
+D:Apresentador do Jornal Nacional
+P:brad pitt
+D:Celebridades
+D:Ator e produtor americano
+D:É natural de Oklahoma,EUA
+D:É citado um dos mais bem pagos atores de Hollywood
+D:Já foi casado com Angelina Jolie
+D:Fez Aquiles no Filme Troia
+P:adan sandler
+D:Celebridades
+D:Natural de Nova York, EUA
+D:Casado com Jackie Sandler
+D:Origem Judaica
+D:Seus filmes, em sua grande maioria, sempre contém comédia
+D:Fez o papel do Zohan, um agente bom de corte
+P:fausto silva
+D:Celebridades
+D:Natural de Porto Ferreira, São Paulo
+D:Já fez redução de estômago
+D:Irá voltar para a Band em 2022
+D:Seu programa é sempre depois do futebol
+D:"Você destruiu o meu ovo!"
+P:datena
+D:Celebridades
+D:Filiado ao Movimento Democrático Brasileiro
+D:Natural de Ribeirão Preto
+D:Já foi narrador
+D:Trabalha na Band
+D:É conhecido por apresentar o Brasil Urgente
+D:"Mostra as ibagens Comandante Hamilton"
+P:celso portiolli
+D:Celebridades
+D:Natural de Maringá,Paraná
+D:Apresentador de televisão
+D:SBT
+D:Apresenta o Domingo Legal
+D:Passa ou Repassa é uma das atrações de seu programa
+P:angelica
+D:Celebridades
+D:Natural de Santo André, São Paulo
+D:Começou a carreira na televisão aos treze anos
+D:Iniciou sua carreira artística como atriz e cantora
+D:Casada com Luciano Hulk
+D:"Vou de táxi"
+P:xuxa meneghel
+D:Celebridades
+D:Natural de Santa Rosa, Rio Grande do Sul
+D:Já ficou com o Ayrton Senna
+D:Construiu o maior império de entretenimento infanto-juvenil ibero-americano
+D:"Rainha dos Baixinhos"
+D:E só para baixinhos
+P:jair bolsonaro
+D:Celebridades
+D:Nasceu na cidade de Glicério
+D:Tem 5 filhos
+D:Foi deputado federal por 27 anos
+D:"Dá que eu te dou outra"
+D:Presidente do Brasil atualmente
+P:craque neto
+D:Celebridades
+D:Ídolo do Corinthians
+D:Ótimo batedor de faltas
+D:Apresentador dos Donos da Bola
+D:"Eu não jogo mais!!!"
+D:"Seus zé ruelas desgraçados"
+P:paulo gustavo
+D:Celebridades
+D:Usa roupas estilosas
+D:Natural de Niterói
+D:Seu cônjuge é Thales Bretas
+D:Infelizmente morreu por conta da Covid-19 
+D:Dona Hermínia
+P:michel telo
+D:Celebridades
+D:Tem 2 filhos
+D:Natural de Medianeira, Paraná
+D:Cantor Sertanejo
+D:Jurado do The Voice Brasil
+D:"Ai se eu te pego"
+P:gisele bundchen
+D:Celebridades
+D:Já foi considerada a mulher mais bonita do mundo
+D:Nasceu em Horizontina, Rio Grande do Sul
+D:É uma supermodelo, filantropa, ativista ambiental e empresária brasileira
+D:A partir de 2007, tornou-se a 16º mulher mais rica do setor de entretenimento
+D:Seu marido é Tom Brady
+P:sabrina sato
+D:Celebridades
+D:Sua filha chama Zoe
+D:Era do Pânico
+D:Rainha de bateria da escola de samba Gaviões da Fiel
+D:Apresentadora e atriz brasileira
+D:A pinta na testa é a sua marca
+P:johnny depp
+D:Celebridades
+D:vencedor de um Globo de Ouro
+D:Nasceu em Owensboro,EUA
+D:Três vezes indicado ao Oscar de Melhor Ator
+D:Willy Wonka
+D:Piratas do Caribe
+P:ronaldo fenomeno
+D:Celebridades
+D:Iniciou a carreira no São Cristóvão
+D:Empresário e ex-futebolista brasileiro
+D:Um dos melhores futebolistas de todos os tempos
+D:Atualmente é presidente do Real Valladolid, da Espanha
+D:Muito importante para a conquista da copa do mundo de 2002
+P:claudia leitte
+D:Celebridades
+D:Tem muitos seguidores no Instagram
+D:Natural do Rio de Janeiro
+D:Sua carreira teve início em 2001, na Bahia
+D:Era vocalista da banda babado novo
+D:É jurada no The Voice Brasil
+P:neymar jr
+D:Celebridades
+D:Na sua infância era Palmeirense
+D:Atualmente joga no PSG
+D:Iniciou sua carreira no Santos
+D:jogador de futebol
+D:Cai cai
+P:whindersson nunes
+D:Celebridades
+D:Natural do Piauí
+D:Seu nome artístico é Lil Whind
+D:Teve depressão
+D:Se separou da Luiza Sonsa
+D:Faz stand-up
+P:bill gates
+D:Celebridades
+D:É um magnata, empresário, diretor executivo, investidor, filantropo e autor americano
+D:Natural de Washington, EUA
+D:Fortuna estimada em 126,7 bilhões USD
+D:Separou-se de Melinda em 2021
+D:Dono da Microsoft
+P:donald trump
+D:Celebridades
+D:Natural de Nova York, EUA
+D:Tem 1,9m de altura
+D:O seu partido é o Republicano
+D:Seu patrimônio líquido é de 2,4 bilhões USD
+D:Ex-presidente dos EUA
+P:celso russomano
+D:Celebridades
+D:Tem 64 anos
+D:O seu partido é o Republicanos
+D:Sempre perde as eleições
+D:Participa do Programa Patrulha do Consumidor
+D:Virou meme
+P:erick jacquin
+D:Celebridades
+D:Tem 3 filhos
+D:Nasceu numa pequena cidade chamada Dun-sur-Auron, na França
+D:Tem um restaurante chamado Président
+D:Jurado do Masterchef
+D:"Você é a vergonha da profissión!!"

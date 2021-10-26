@@ -1,0 +1,203 @@
+P:macaco
+D:Animais
+D:gosta de comer banana
+D:são territorialistas
+D:são mamíferos
+D:são extremamente inteligentes e sociáveis
+D:vivem em arvores
+P:gato
+D:Animais
+D:são felinos
+D:são mamíferos
+D:são domésticos
+D:esses animais miam
+D:uma das raças mais conhecidas desse animal se chama siâmes
+P:cachorro
+D:Animais
+D:são mamíferos
+D:são domésticos
+D:esses animais latem
+D:considerado o melhor amigo do homem
+D:possuem expectativa de vida que varia entre 10 e 20 anos
+P:baleia 
+D:Animais
+D:são mamíferos
+D:vivem no mar
+D:maior animal do mundo
+D:já foi tema de musica do cantor michael jackson
+D:são cetáceos
+P:elefante
+D:Animais
+D:são mamíferos
+D:maior animal terrestre
+D:são paquidermes
+D:possuem tromba
+D:possuem cor acinzentada
+P:girafa
+D:Animais
+D:são mamíferos ruminantes
+D:possuem manchas pelo corpo
+D:possuem pescoço comprido
+D:o coração desse animal pesa cerca de 11 kg
+D:o animal mais alto do planeta
+P:morcego
+D:Animais
+D:são mamíferos
+D:são da ordem chiroptera
+D:alguns desses animais se alimentam de sangue
+D:podem transmitir uma doença chamada raiva
+D:esses animais voam
+P:porco
+D:Animais
+D:são mamíferos
+D:mascote do palmeiras
+D:vivem no chiqueiro
+D:possuem cor rosada
+D:possuem 44 dentes
+P:cavalo
+D:Animais
+D:possuem crina
+D:são equinos
+D:esses animais relincham
+D:são criados em sítios e fazendas
+D:pode ser usado como meio de transporte
+P:leao
+D:Animais
+D:considerado o rei dos animais
+D:possuem juba
+D:são carnívoros
+D:são mamíferos
+D:são felinos
+P:coiote
+D:Animais
+D:Chacal americano
+D:Vivem em média 6 anos
+D:Encontrados apenas na América do Norte e Central
+D:Podem se organizar em matilhas
+D:Vive correndo atrás do papa-léguas
+P:gorila
+D:Animais
+D:Grande
+D:Forte
+D:Tem velocidade média de 40 km/h
+D:Compartilham entre 98 a 99% do DNA com os seres humanos 
+D:king kong
+P:andorinha
+D:Animais
+D:Pesa cerca de 20g
+D:Seu nome científico é Hirundinidae
+D:Ave passeriformes
+D:Se alimenta, normalmente, de insetos voadores
+D:Uma só não faz verão
+P:mamba negra
+D:Animais
+D:família Elapidae
+D:Seu nome científico é Dendroaspis polylepis
+D:Extremamente venenosa
+D:Encontrada na Savana Africana
+D:Um dos animais mais perigosos do mundo
+P:esquilo
+D:Animais
+D:Seu nome cientifico é Sciuridae
+D:No Brasil é conhecido como caxinguelê
+D:Normalmente vivem longe de zonas urbanas
+D:Adoram nozes
+D:Alvin, Teodoro e Simon são
+P:rinoceronte
+D:Animais
+D:Mamíferos Perissodáctilos
+D:Vivem cerca de 50 anos
+D:Animal muito visado na caça
+D:Pode ter de um a dois cornos
+D:Ecko Unltd
+P:gazela
+D:Animais
+D:Mamífero Bovídeo
+D:Vivem em manadas
+D:Temperamento nervoso
+D:Pode atingir incríveis 97 km/h
+D:Um dos pratos preferidos dos Leões
+P:arara azul
+D:Animais
+D:Seu nome científico é Anodorhynchus hyacinthinus
+D:Ave psittaciforme
+D:Vive nos biomas da Floresta Amazônica e principalmente no cerrado e pantanal
+D:Está quase extinto
+D:Blue e Jade do filme Rio são
+P:ariranha
+D:Animais
+D:Seu nome científico é Pteronura brasiliensis
+D:conhecida como onça-d'água
+D:mamífero mustelídeo
+D:O seu período de gestação é de 70 dias
+D:Encontrada no pantanal
+P:capivara
+D:Animais
+D:Seu nome científico é Hydrochoerus hydrochaeris
+D:Podem chegar a pesar cerca de 66 kg
+D:Mamífero roedor
+D:São herbívoros
+D:Muito encontrado nas margens de rios
+P:chimpanze
+D:Animais
+D:Seu sub-reino é o Eumetazoa
+D:Sua alimentação é composta por frutas, folhas e pequenos insetos
+D:A expectativa de vida desse animal é de cerca de 40 anos
+D:São os parentes vivos mais próximos dos humanos
+D:Um dos apelidos do Seu Madruga
+P:falcao peregrino
+D:Animais
+D:Pode ser encontrada em todos os continentes exceto na Antártida
+D:Se alimenta de outras aves, como pombos
+D:Ave de rapina diurna
+D:Sua asa pode passar de 1 metro
+D:É considerado o animal mais rápido do mundo
+P:lobo guara
+D:Animais
+D:Seu nome científico é Chrysocyon brachyurus
+D:É onívoro
+D:Endêmico da América do Sul
+D:Importante dispersor de sementes
+D:Um animal típico do Cerrado.
+P:cabra
+D:Animais
+D:Espécie C. aegagrus
+D:Animal herbívoro
+D:Chegam a viver até 18 anos
+D:Tanto os machos quanto as fêmeas apresentam barba e cornos.
+D:É da peste
+P:crocodilo
+D:Animais
+D:Filo Chordata
+D:Vivem nas Américas, África, Ásia e Austrália
+D:Podem chegar a viver até os 70 anos
+D:Não vivem no Brasil
+D:Confundido com o jacaré
+P:tartaruga
+D:Animais
+D:Répteis da ordem Chelonia ou Testudines
+D:Seus primeiros membros conhecidos datam do Jurássico Médio
+D:Concha óssea ou cartilaginosa, desenvolvida a partir de suas costelas, que atua como escudo
+D:o IBAMA proíbe que sejam criadas em cativeiro
+D:Na natureza, pode passar dos 100 anos
+P:suricato
+D:Animais
+D:Espécie de mamífero da família Herpestidae
+D:Pelagem acastanhada
+D:Pode ser encontrado na África do Sul, Botsuana, Namíbia e Angola
+D:Animais territorialistas
+D:São predados por águias e chacais
+P:hipopotamo
+D:Animais
+D:mamífero Omnívoro de grande porte da África subsaariana
+D:O seu nome provém do grego antigo, significando "cavalo do rio"
+D:Podem facilmente passar dos 1000 kg
+D:Sua dieta é baseada em folhas
+D:Glória, do Madagascar
+P:zebra
+D:Animais
+D:Muito veloz
+D:Atacados habitualmente por leões
+D:É nas savanas africanas onde esse animal habita
+D:São mamíferos que pertencem à família dos cavalos
+D:Preto e branco

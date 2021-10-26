@@ -1,0 +1,315 @@
+P:banana
+D:frutas
+D:Faz bem para o sistema digestivo
+D:Muitos atletas a come para evitar câimbras
+D:É um dos ingredientes da sobremesa banoffe
+D:Macaco adora
+D:Fonte de potássio
+P:abacaxi
+D:frutas
+D:Usado como amaciante de carnes
+D:Rico em vitamina C
+D:Conhecido também como Ananas
+D:Tem coroa
+D:Lar do Bob Esponja
+P:abacate
+D:frutas
+D:Cultivada em regiões tropicais e subtropicais
+D:Rico em vitamina B
+D:Diminui a carga glicêmica
+D:Tem caroço
+D:Verde
+P:atemoia
+D:frutas
+D:Rica em carboidratos
+D:Rica em potássio
+D:É obtida pelo cruzamento de cherimoia e fruta-pinha
+D:Nativa de regiões tropicais
+D:É confundida com a graviola
+P:laranja
+D:frutas
+D:Fruta muito consumida para reduzir o LDL (colesterol ruim)
+D:Possui flavonoides
+D:Muitos dizem que Foi obtida após o cruzamento da tangerina com a chimboa
+D:Tem gomos
+D:Sua cor é o seu nome
+P:pessego
+D:frutas
+D:Faz muito bem para a pele
+D:Nativa da Ásia
+D:Algumas pessoas são alérgicas a essa fruta
+D:Pode ser de formato oval ou redondo
+D:Casca aveludada
+P:acerola
+D:frutas
+D:Possui muitos minerais, como o ferro, fósforo e cálcio
+D:Tem origem nas Antilhas
+D:Conhecida também como cerejeira-do-pará
+D:Parecida com a pitanga
+D:pequena
+P:melancia
+D:frutas
+D:Rica em carotenoides
+D:Originária da Africa
+D:Sua casca pode ser consumida
+D:Grande
+D:Muitas sementes
+P:limao
+D:frutas
+D:Ordem dos Sapindales
+D:Muito usada em doces e carnes
+D:A caipirinha tem como ingrediente principal essa fruta
+D:Fruta cítrica
+D:Possui sementes
+P:mamao
+D:frutas
+D:Ótimo para o trânsito intestinal
+D:Alongado e adocicado
+D:Ótimo para o café da manhã
+D:Fruta tropical
+D:Uma das espécies foi passear papaya...
+P:kiwi
+D:frutas
+D:Groselha Chinesa
+D:Rica em vitamina C
+D:Comida à noite, pode melhorar o sono
+D:Casca peluda
+D:Verde por dentro
+P:morango
+D:frutas
+D:Propriedades anti-inflamatóorias
+D:Contém ácido elágico
+D:Em termos científicos, nao é considerado fruta
+D:Originário da Europa
+D:Vermelho
+P:melao
+D:frutas
+D:Rica em carotenóides
+D:Possui muitas fibras
+D:Ótimo na luta contra a pressão arterial
+D:Originária do Oriente Médio
+D:Polpa suculenta
+P:jabuticaba
+D:frutas
+D:A origem da palavra é Iaoutikaua
+D:Família das Mirtaceas
+D:Combate à prisão de ventre
+D:Nativa da Mata Atlântica
+D:Roxa
+P:mexerica
+D:frutas
+D:Rica em vitamina C
+D:Ótima para a pele
+D:Conhecida também como bergamota
+D:Seu cheiro fica preso nas pessoas
+D:Possui gomos
+P:goiaba
+D:frutas
+D:Rica em magnésio
+D:Espécie Psidium guajava
+D:Melhora a digestão
+D:Muito encontrada no Sudeste Asiático e no Brasil
+D:Usada no preparo de Romeu e Julieta, prato comum no Brasil
+P:pitanga
+D:frutas
+D:Dicotiledonea da familia das mirtaceas
+D:De acordo com o grau de maturação, pode ter diversas cores
+D:Ótima para emagrecer
+D:Parece com acerola
+D:Camila .......
+P:caju
+D:frutas
+D:Pseudofruto
+D:Diminui o estresse oxidativo
+D:Bom para o sistema imunológico
+D:De onde é extraido a castanha
+D:.... e castanha, dupla sertaneja
+P:maracuja
+D:frutas
+D:É cultivada pela planta do genero Passiflora
+D:Cultivada em zonas tropicas e subtropicais da América
+D:Sua casca é muito rica em fibras
+D:O Brasil é o maior produtor dessa fruta
+D:Relaxa muito
+P:ameixa
+D:frutas
+D:Alto teor de sólidos solúveis
+D:Sua árvore pode conter ou não espinhos
+D:Previne doenças cardiovasculares
+D:Pode ser seca
+D:Comum no Natal
+P:jaca
+D:frutas
+D:Conhecida também como Artocarpus heterophyllus
+D:Tem palmito
+D:Suas sementes podem ser consumidas como petiscos, quando cozidas ou assadas
+D:Casca grossa
+D:Conhecida como cabeça de cearense
+P:coco
+D:frutas
+D:Originaria da família Arecaceae
+D:Prestigio tem
+D:Muito usado em doces
+D:Pode ser extraída água
+D:Quando batemos a cabeça, muitos dizem que batemos o ....
+P:amora
+D:frutas
+D:Possui fitormônios
+D:Se for muito consumida, pode ocorrer a toxicidade hepática
+D:Rica em vitaminas e minerais
+D:Ótima para quem estiver com resfriado
+D:Confundida com a framboesa
+P:manga
+D:frutas
+D:Alivia a constipação
+D:Familia Anacardiaceae
+D:Nativa do sul e do sudeste asiático desde o leste da Índia ate as Filipinas
+D:Edu .....
+D:As camisas tem
+P:pitaya
+D:frutas
+D:Combate à anemia e osteoporose
+D:Conhecida como fruta-do-dragão
+D:Nativa de regiões da América Central e México
+D:Fruta escamosa
+D:Muito cara
+P:acai
+D:frutas
+D:Conhecido também como Euterpe oleracea
+D:fruto bacaceo
+D:Oriundo da Amazônia
+D:Muito energético
+D:Muito consumido em todo o Brasil, onde se come normalmente com banana, leite condensado, leite em pó e granola
+P:cupuacu
+D:frutas
+D:Conhecido também como Theobroma grandiflorum
+D:Fruto de uma árvore originária da Amazônia
+D:Ajuda na função metabólica
+D:Fornecedor de energia
+D:Parente próxima do cacau
+P:caja
+D:frutas
+D:Conhecido também como tapereba
+D:originária das regiões tropicais da América
+D:originário das Ilhas da Sociedade, no Oceano Pacífico
+D:Renato ...., Jogador de futebol
+D:Possui poucas calorias
+P:cacau
+D:frutas
+D:Originário da chuvosa Bacia do rio Amazonas, na América do Sul
+D:rico em fitoquímicos
+D:O período compreendido entre a polinização e o amadurecimento do fruto varia de 140 a 205 dias
+D:..... Show
+D:Fabrica o chocolate
+P:cereja
+D:frutas
+D:Genero Prunus
+D:Rica em vitamina A
+D:Curiosamente, o Brasil não cultiva essa fruta por conta do clima
+D:Originária da Asia
+D:Fica no topo do bolo
+P:framboesa
+D:frutas
+D:Fruto de centro oco
+D:Para ser cultivada necessita de cuidados específicos como na temperatura que não deve ser maior que 7ºC
+D:É uma pseudobaga e um fruto agregado
+D:Utilizado para diversas finalidades, como sorvetes, xaropes, geleias, licores e doces
+D:Parece amora
+P:groselha
+D:frutas
+D:Um dos principais ingredientes da culinária de países do norte da Europa.
+D:Especime das ribesiaceas
+D:Na Europa, a estação da fruta é o verão, entre os meses de julho e agosto
+D:Utilizada para a fabricação de xaropes, refrescos e geleias
+D:Muito gostosa com leite
+P:inga
+D:frutas
+D:Genero de plantas com flor da subfamília Mimosoideae da familia Fabaceae
+D:Começa sua frutificação entre 3 a 4 anos (tempo variável de acordo com a temperatura)
+D:São revestidas por uma vagem verde e grande
+D:Existem 300 espécies dessa fruta
+D:Comum em regiões próximas de lagos e rios
+P:jambo
+D:frutas
+D:Pertence à familia Myrtaceae
+D:Fruto piriforme
+D:Pode ser encontrado nas cores rosa, amarelo, branco e laranja-amarelado.
+D:Casca lisa
+D:ajuda no fortalecimento de ossos e dentes
+P:jenipapo
+D:frutas
+D:Em guarani, significa "fruta que serve para pintar"
+D:Sua árvore pode chegar a 210 metros de altura
+D:Mesma familia do café
+D:Oriunda da América tropical
+D:Rica em vitamina B1,B2,B3 e B5
+P:mangaba
+D:frutas
+D:conhecida também como Hancornia speciosa
+D:Azeda
+D:Pode ser usada na fabricação de sorvetes
+D:Regula a pressão arterial
+D:Muito apreciada no nordeste
+P:pequi
+D:frutas
+D:Possui betacaroteno
+D:Rico em vitamina A
+D:Nativa do cerrado
+D:Pode produzir um azeite, por ser muito oleoso
+D:Arroz com ....., prato muito consumido na região centro-oeste brasileiro
+P:pera
+D:frutas
+D:Contém carotenoides
+D:familia Rosaceae
+D:Colhida no final do verão até outubro
+D:Usada na sobremesa francesa chamana "Poire Belle Helene"
+D:tem cabinho
+P:pupunha
+D:frutas
+D:Se extrai óleo dela
+D:Conhecida como babunha
+D:Rica em fibras alimentares
+D:Nativa da Amazônia
+D:Palmito .......
+P:roma
+D:frutas
+D:Contém muito alcaloide
+D:Muito utilizada na medicina
+D:Sua polpa pode ser utilizada no preparo de bebidas alcoólicas
+D:Comum no Mediterrâneo
+D:Império ....no
+P:siriguela
+D:frutas
+D:Conhecida como jacote
+D:Sua árvore pode atingir até sete metros de altura
+D:Oriunda do Nordeste brasileiro
+D:Amarelada
+D:Casca fina e lisa
+P:tamara
+D:frutas
+D:Rica em riboflavina
+D:Muito energética
+D:Pode ser vendida de forma desidratada
+D:Originária do norte da África
+D:Por ser muito doce, pode substituir o açúcar em receitas
+P:tamarindo
+D:frutas
+D:Sabor ácido
+D:Conhecido tambem como jubaí
+D:Possui apenas uma espécie
+D:O Chaves faz suco dessa fruta
+D:ótimo para o sistema urinário
+P:tucuma
+D:frutas
+D:É conhecido como Astrocaryum vulgare
+D:Tem um time argentino que o seu nome é parecido com dessa fruta
+D:Oriunda da Amazônia
+D:Muito calórica
+D:Polpa grudenta
+P:guarana
+D:frutas
+D:Fonte poderosa de bioativos
+D:Seu nome científico é Paullinia cupana
+D:Originário da Amazonia
+D:Parece que tem olho
+D:Conhecemos ela pelo refrigerante

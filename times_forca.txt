@@ -1,0 +1,175 @@
+P:palmeiras
+D:time
+D:o Estádio dessa equipe se chama Allianz Parque
+D:tem como um dos maiores ídolos Ademir da Guia
+D:já representou a seleção brasileira e ganhou da seleção uruguaia por 3 x 0
+D:ganhou as edições de 1999 e 2020 da taça libertadores da américa
+D:tem como mascote o porco
+P:corinthians
+D:time
+D:o Estádio dessa equipe se chama Neo Quimica Arena
+D:tem como um dos maiores ídolos Rivelino
+D:disputou a segunda divisão do campeonato brasileiro de futebol de 2008
+D:ficou 23 anos sem ganhar nenhum título
+D:vice campeão do campeonato paulista de futebol do ano de 2020
+P:santo andre
+D:time
+D:o estadio dessa equipe se chama bruno jose daniel
+D:conquistou a copa do brasil de 2004
+D:disputou a libertadores de 2005
+D:atualmente disputa a quarta divisao do campeonato brasileiro de futebol
+D:atualmente disputa a primeira divisao do campeonato paulista de futebol
+P:real madrid
+D:time
+D:o Estádio dessa equipe se chama Santiago Bernabeu
+D:o técnico dessa equipe se chama Zinedine Zidane
+D:Cristiano Ronaldo ja jogou nessa equipe
+D:já venceu 13 vezes a champions league
+D:ganhou o campeonato espanhol de futebol 34 vezes
+P:barcelona
+D:time
+D:o estádio dessa equipe se chama Camp Nou
+D:o tecnico dessa equipe se chama Ronald Koeman
+D:Lionel Messi joga nesse time
+D:essa equipe está localizada na região da Catalunha
+D:rival do Real Madrid
+P:santos
+D:time
+D:o estádio dessa equipe se chama Urbano Caldeira também conhecido como Vila Belmiro
+D:Pelé foi o maior idolo
+D:o atual técnico se chama Fernando Diniz 
+D:Neymar começou sua carreira nesse time
+D:Vice campeão da libertadores de 2020
+P:sao paulo
+D:time
+D:o Estádio dessa equipe se chama Cícero pompeu de toledo também conhecido como Morumbi
+D:Rogério Ceni foi um dos maiores idolos
+D:o atual tecnico desse time se chama Hernan Crespo 
+D:o centro de treinamento desse time esta ao lado do centro de treinamento do Palmeiras
+D:ja chegou a decretar falência
+P:chelsea
+D:time
+D:o estádio dessa equipe se chama stamford bridge
+D:esse time foi campeão da champions league 2011/2012
+D:o atual treinador desse time se chama Thomas Tuchel
+D:um dos maiores ídolos se chama didier drogba
+D:essa equipe esta sediada em londres
+P:manchester city
+D:time
+D:finalista da champions league 2020/2021
+D:a equipe que joga gabriel jesus
+D:seu maior rival se chama manchester united
+D:o técnico dessa equipe se chama Josep Guardiola
+D:essa equipe esta sediada em manchester
+P:ibis
+D:time
+D:considerada a pior equipe do mundo
+D:time brasileiro
+D:esta sediada em Paulista município pertencente ao estado de pernambuco
+D:disputa a série a2 do campeonato pernambucano de futebol
+D:essa equipe também pode ser conhecida como pássaro preto
+P:bayern munchen
+D:time
+D:Disputou o mundial em 2020
+D:localiza-se na Alemanha
+D:Vários brasileiros já jogaram nessa equipe, como Zé Roberto,Rafinha e Dante
+D:Lewandovski é o pincipal jogador desse time
+D:Ganhou a champions em cima do PSG
+P:chapecoense
+D:time
+D:Já ganhou do Palmeiras e do Internacional de goleada
+D:Seu mascote é um Índio
+D:Situado em Santa Catarina
+D:Sofreu um trágico acidente aéreo em 2016
+D:Voltou para a série A do Brasileirão esse ano
+P:galatasaray
+D:time
+D:Seu estádio é o Turk Telekom
+D:O seu maior rival é o Fenerbahce
+D:Seu técnico é o Fatih Terim
+D:Felipe Melo já jogou nesse time
+D:Time turco
+P:paysandu
+D:time
+D:Disputa a série C do Brasileirão
+D:O seu estádio é o Estádio Banpará Curuzu,
+D:Já ganhou do Boca na La Bombonera
+D:Um dos principais times do norte brasileiro
+D:Seu maior rival é o Remo
+P:gremio
+D:time
+D:Situado no Rio Grande do Sul
+D:Já caiu para a série B em 2004
+D:Ganhou a Libertadores de 2017
+D:Tiago Nunes é o atual treinador
+D:Perdeu a Copa do Brasil para o Palmeiras, em 2020
+P:botafogo
+D:time
+D:O seu estádio é o Nilton Santos
+D:Campeão desde 1910
+D:Honda e Kalou já jogaram nesse time
+D:Caiu para a Série B no ano de 2020
+D:Garrincha é o maior ídolo desse clube
+P:atletico mineiro
+D:time
+D:Ronaldinho Gaúcho já jogou nessa equipe
+D:Seu novo estádio está sendo construído
+D:Foi campeão brasileiro em 1971
+D:Cuca é o atual treinador
+D:Campeão da Libertadores de 2013
+P:borussia dortmund
+D:time
+D:Fundado em 1909
+D:Seu treinador é o Edin Terzic
+D:É da Alemanha
+D:Princpal rival do Bayern
+D:Onde joga Haaland
+P:vasco
+D:time
+D:Nome de navegador
+D:Situado no Rio de Janeiro
+D:Seu estádio é o São Januário
+D:Roberto Dinamite é um dos maiores ídolos desse clube
+D:Cruz de Malta
+P:fluminense
+D:time
+D:Perdeu a libertadores para a LDU
+D:Tricolor do Rio
+D:Um dos seus maiores ídolos é o Renato Gaúcho
+D:Já subiu direto da série C para a série A
+D:Ganhou no tribunal da Portuguesa
+P:internacional
+D:time
+D:Fundado em 1909
+D:Um dos seus maiores ídolos é o Fernandão
+D:Já ganhou libertadores
+D:Perdeu pro Mazembe no mundial de clubes de 2010
+D:Apesar do seu nome, ele é do Brasil
+P:portuguesa
+D:time
+D:Atualmente está na série D do Brasileirão
+D:Sofreu tapetão em 2013 pelo fluminense
+D:Seu estádio é o Canindé
+D:Revelou diversos jogadores, como o Zé Roberto e o Weverton
+D:Sabor de pizza
+P:cruzeiro
+D:time
+D:Um de seus maiores ídolos é o Fábio, que joga até hoje
+D:Está quase falindo
+D:Já ganhou a Copa do Brasil
+D:grande navio de turismo
+D:Caiu de divisão pela primeira vez em 2019
+P:borussia monchengladbach
+D:time
+D:O seu goleiro é da seleção suiça
+D:Situado na Alemanha
+D:O seu técnico atual é o Marco Rose
+D:Joga a 1ºdivisão alemã
+D:Já caiu de divisão
+P:flamengo
+D:time
+D:Não tem estádio próprio
+D:Muitas vezes é ajudado pela arbitragem
+D:Situado do Rio de Janeiro
+D:Um dos seus maiores ídolos é o Galinho de Quintino
+D:Em 2019, teve um trágico acidente que matou muitos garotos da base

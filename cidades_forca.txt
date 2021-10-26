@@ -1,0 +1,175 @@
+P:toquio
+D:Cidades
+D:É a cidade mais populosa do mundo
+D:Capital do Japão
+D:Altamente tecnológica
+D:Sediará os Jogos Olímpicos de 2021
+D:É pequena em termos territoriais
+P:nova york
+D:Cidades
+D:Fica nos Estados Unidos da América
+D:Já sofreu atentado terrorista
+D:A Times Square fica lá
+D:Foi a capital dos Estados Unidos entre os anos de 1785 e 1790
+D:Manhattan, Brooklyn e Bronx são alguns dos seus distritos
+P:brasilia
+D:Cidades
+D:É a capital do Brasil
+D:Foi idealizada por Juscelino Kubitschek
+D:Fica na região Centro-Oeste do Brasil
+D:Foi inaugurada em 21 de Abril de 1960
+D:O estádio Mané Garrincha está localizado lá
+P:sao paulo
+D:Cidades
+D:Ricardo Nunes é o atual prefeito
+D:É a cidade mais populosa do Brasil
+D:A Avenida Paulista é um dos principais pontos da cidade
+D:O Museu de Arte Moderna está sediado lá
+D:Fica próxima a região do grande ABC
+P:moscou
+D:Cidades
+D:É a capital da Rússia
+D:Sediou alguns jogos da Copa do Mundo de Futebol de 2018
+D:Foi fundada em 1147
+D:Possui 11.979.529 habitantes
+D:O Kremlin está localizado lá
+P:berlim
+D:Cidades
+D:É a capital da Alemanha
+D:Sediou alguns jogos da Copa do Mundo de futebol em 2006
+D:Ficou devastada após a Segunda Guerra Mundial
+D:Tinha um muro que era responsável por separar a Alemanha Oriental e a Alemanha Ocidental
+D:Existe desde o século XIII
+P:milao
+D:Cidades
+D:Fica na Itália
+D:É a capital mundial da moda e do design
+D:Fica na região da Lombardia
+D:O Parque Sempione está sediado lá
+D:Possui cerca de 1.404.239 habitantes
+P:madrid
+D:Cidades
+D:É a capital da Espanha
+D:Foi fundada no século IX
+D:Essa cidade está localizada sobre o Rio Manzanares
+D:Foi considerada por uma revista como a décima cidade mais habitável do mundo
+D:É considerada o maior centro financeiro do sul da Europa
+P:santo andre
+D:Cidades
+D:O Prefeito dessa cidade é Paulinho Serra
+D:Foi fundada por João Ramalho
+D:Bridgestone e Brasken estão sediadas nessa cidade
+D:O estádio Bruno José Daniel está localizado nessa cidade
+D:Foi considerada pela Revista Exame como a quinta melhor cidade para se criar os filhos
+P:pindamonhangaba
+D:Cidades
+D:Proximo de Aparecida
+D:Geraldo Alckmin nasceu lá
+D:Nessa cidade,à noite, fica cheio de trailers de lanche
+D:D.Pedro II já passou por essa cidade
+D:É no interior
+P:chongqing
+D:Cidades
+D:Grande cidade localizada na confluência entre os rios Yangtzé e Jialing
+D:Possui uma arte milenar
+D:Onde fica localizado o Museu das Três Gargantas, onde apresenta artefatos da construção da Barragem das Três Gargantas
+D:Região sudoeste da China
+D:Um dos pontos de interesse é o Dazu Rock Carvings
+P:llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
+D:Cidades
+D:Uma das cidades com o nome mais comprido do mundo
+D:Está localizada na ilha Anglesey, no País de Gales
+D:O seu código de discagem é 01248
+D:chamada também de Llanfair
+D:A sua tradução significa Igreja de Santa Maria no fundo do aveleiro branco perto de um redemoinho rápido e da Igreja de São Tisílio da gruta vermelha.
+P:los angeles
+D:Cidades
+D:Perto do famoso letreiro de Hollywood
+D:O atual Prefeito é Eric Garcetti
+D:Tem um ótimo time de basquete com o seu nome
+D:Grande cidade do sul da Califórnia
+D:É possível conhecer os bastidores das produções nos estúdios Paramount Pictures, Universal e Warner Brothers
+P:pirassununga
+D:Cidades
+D:Próximo de Araraquara
+D:Altitude de 627 metros
+D:Localizado na Região Centro-Leste do estado de SP
+D:Cerca de 77 mil habitantes
+D:pinga 51
+P:nova delhi
+D:Cidades
+D:Templo de Akshardham
+D:Templo de Lótus
+D:Fica bem no centro de seu país
+D:Serve como sede do Governo da Índia
+D:Uma das cidades mais populosas do mundo
+P:istambul
+D:Cidades
+D:Há obeliscos egípcios
+D:Reflete as influências culturais dos muitos impérios que já governaram a região
+D:Se divide entre a Europa e a Ásia
+D:O Governador se chama Ali Yerlikaya
+D:Basílica de Santa Sofia
+P:springfield
+D:Cidades
+D:Fica nos EUA
+D:Cidade fictícia
+D:Fica perto de Portland
+D:Baseada em Oregon
+D:Cidade dos Simpsons
+P:cancun
+D:Cidades
+D:situada na Península de Iucatã
+D:costa do Mar do Caribe
+D:Famoso destino para estudantes durante o período de férias de primavera das universidades
+D:Cidade mexicana
+D:É conhecida pelas suas praias e paisagens
+P:praia grande
+D:Cidades
+D:Cerca de 80 km de SP
+D:Cidade na Região Metropolitana da Baixada Santista
+D:a população era de 325 073 habitantes, no ano de 2019
+D:Tem a estátua de Iemanjá
+D:Ocian e Tupi são uma dessas praias
+P:brodowski
+D:Cidades
+D:Localizado na região nordeste do estado de São Paulo
+D:Próximo de Ribeirão Preto
+D:O seu prefeito se chama José Luiz Perez
+D:O seu nome é uma homenagem a um engenheiro polonês
+D:Cidade onde nasceu Cândido Portinari
+P:belo horizonte
+D:Cidades
+D:Rodeada de montanhas
+D:Conjunto Arquitetônico da Pampulha
+D:Sua população é de 2.722 milhões de pessoas aproximadamente
+D:Sudeste do Brasil
+D:Estádio do Mineirão
+P:franca
+D:Cidades
+D:Próxima de Restinga
+D:Um dos melhores IDH do Brasil
+D:O atual prefeito se chama Alexandre Ferreira
+D:Próximo de Minas Gerais
+D:Terra dos calçados
+P:cairo
+D:Cidades
+D:Sua população é de cerca de 10 milhões de pessoas
+D:Perto dali fica Gizé, local das famosas pirâmides e da Grande Esfinge, que data do século XXVI a.C
+D:Onde fica a Praça Tahrir
+D:Localizada às margens do rio Nilo
+D:Capital do Egito
+P:dhaka
+D:Cidades
+D:A cidade no século XVII era a capital Mogol de Bengal, da qual persistem muitos palácios e mesquitas
+D:Sua população, dados de 2011, era de 8,906 milhões
+D:Localizada junto ao rio Buriganga
+D:Fica em Bangladesh
+D:Sul da Ásia
+P:campinas
+D:Cidades
+D:Cidade no sudeste brasileiro
+D:A sua Catedral Metropolitana possui um interior em madeira de jacarandá e um museu de arte sacra
+D:O Museu do Café, o qual fica nessa cidade, recorda a história da cidade enquanto produtora de café
+D:Fica a 100 km de São Paulo mais ou menos
+D:Onde fica localizado a UNICAMP

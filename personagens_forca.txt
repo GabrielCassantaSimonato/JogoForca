@@ -1,0 +1,330 @@
+P:bob esponja
+D:personagem
+D:Mora em um abacaxi
+D:Vizinho do lula molusco
+D:Seu melhor amigo é o Patrick
+D:Trabalha no Siri Cascudo
+D:Adora caçar água viva 
+P:lula molusco
+D:personagem
+D:Personagem do desenho Bob Esponja
+D:Adora tocar clarineta
+D:É o caixa do Siri Cascudo
+D:Odeia o Bob Esponja
+D:É rabugento
+P:patrick
+D:personagem
+D:Personagem do desenho Bob Esponja
+D:Estrela do mar
+D:Mora em uma rocha
+D:É todo atrapalhado
+D:Melhor amigo do Bob esponja
+P:lineu silva
+D:personagem
+D:A Grande Familia
+D:Pai de Bebel e Tuco
+D:Seu genro é o Agostinho
+D:Trabalha numa repartição
+D:Sua profissao é fiscal sanitário
+P:seu peru
+D:personagem
+D:Personagem da Escolinha do Professor Raimundo
+D:Orlando Drummond é quem faz esse personagem
+D:É bicha
+D:Está vivo até hoje,com mais de 100 anos
+D:Seu ator já dublou Scooby Doo, Popeye...
+P:scooby doo
+D:personagem
+D:Orlando Drummond o dublou
+D:Tem medo de tudo
+D:Comilão
+D:Salsicha
+D:É um cachorro
+P:agostinho carrara
+D:personagem
+D:A Grande Familia
+D:Muito enrolão
+D:Casado com Bebel
+D:Sempre briga com o lineu
+D:É taxista
+P:beicola
+D:personagem
+D:Sua mãe é a Dona Etelvina
+D:Aluga a casa de sua mãe pro Agostinho
+D:Pasteleiro
+D:Seu pastel é de camarao mas não tem camarão
+D:É apaixonado pela Dona Nenê, mulher de lineu
+P:marilda
+D:personagem
+D:Tem dedo podre para homem
+D:É a chefe de Bebel
+D:Já casou com o Mendonça
+D:Tem um salão de beleza
+D:Melhor amiga da Nenê
+P:professor raimundo
+D:personagem
+D:Chico Anysio
+D:Tem um programa com o seu nome
+D:Bruno Mazzeo, seu filho, atualmente faz o seu papel
+D:Seu Batista o adora
+D:"E o salário ó"
+P:seu sirigueijo
+D:personagem
+D:Adora dinheiro
+D:Sua filha é a Perola, uma baleia
+D:Dono do Siri Cascudo
+D:É um siri
+D:Sua casa é uma Ancora
+P:felix
+D:personagem
+D:Mateus Solano foi quem fez o papel
+D:Amor à Vida
+D:É Gay
+D:Jogou sua sobrinha no lixo
+D:"Hot-Dog do....."
+P:shrek
+D:personagem
+D:Mora em um pântano
+D:tem um amigo que é um burro
+D:No seu 2 filme se transforma em humano
+D:Sua esposa é a Fiona
+D:Ogro
+P:mike wazowski
+D:personagem
+D:Pequeno
+D:verde
+D:tem um olho
+D:Monstros S/A
+D:Seu amigo é o Sullivan
+P:pica pau
+D:personagem
+D:Desenho animado
+D:É antigo
+D:Mora em uma árvore
+D:"Fui tapeado"
+D:Ave
+P:carminha
+D:personagem
+D:Pilantra
+D:loira
+D:Joga sua filha em um lixão
+D:Era casada com Max
+D:Avenida Brasil
+P:mario bros
+D:personagem
+D:É da Nitendo
+D:Vermelho
+D:Bigode
+D:"It's me,....."
+D:Salva a princesa Peach do castelo do Bowser
+P:homer simpson
+D:personagem
+D:Amarelo
+D:Adora donuts
+D:"Porco-Aranha,Porco-Aranha..."
+D:Tem 2 filhos
+D:Atrapalhado
+P:mickey mouse
+D:personagem
+D:Criado em 1928
+D:Orelhudo
+D:Muito bondoso
+D:Steamboat Willie
+D:Rato
+P:tom
+D:personagem
+D:Criado na década de 1940
+D:Sempre se dá mal
+D:Seus gritos são engraçados
+D:Jerry
+D:Gato
+P:kenny
+D:personagem
+D:roupa laranja
+D:sempre morre
+D:Difícil de pronunciar sua fala
+D:South Park
+D:mataram o .....,#@*@
+P:fred flintstone
+D:personagem
+D:Pré-História
+D:Trabalha na Construção Civil
+D:Wilma
+D:Usa um porrete
+D:"Yabba Dabba Doo..."
+P:pac man
+D:personagem
+D:Amarelo
+D:Atari
+D:"Come Come"
+D:Namco
+D:Famoso personagem de video game
+P:zeca urubu
+D:personagem
+D:Vilão
+D:Amigo do Nanico
+D:Trapaceiro
+D:Apareceu primeiramente no episodio "Apólice Cobertor"
+D:Pica Pau
+P:dona herminia
+D:personagem
+D:tem 2 filhos
+D:Barraqueira
+D:Parece a Dona Florinda
+D:Minha Mãe é uma Peca
+D:Paulo Gustavo foi quem fez essa personagem
+P:chaves
+D:personagem
+D:molho
+D:SBT
+D:Tem um gorrinho
+D:Mora em um barril
+D:"Isso Isso Isso"
+P:kiko
+D:personagem
+D:tem a perna torta
+D:tesouro da mamãe
+D:seu pai foi engolido por um tubarão
+D:bochechudo
+D:chaves
+P:chiquinha
+D:personagem
+D:sempre chora
+D:baixinha
+D:Seu nome é baseado num pão chamado Chilindrina
+D:"o que você tem de burro, você tem de burro..."
+D:chaves
+P:seu madruga
+D:personagem
+D:Casa 72
+D:"A vingança Nunca é Plena, Mata a Alma e a Envenena"
+D:Sempre leva umas bofetadas
+D:Já teve vários empregos
+D:Deve 12 meses de aluguel e vai para Acapulco
+P:seu barriga
+D:personagem
+D:Gordo
+D:Tem bigode
+D:Cobrador de aluguéis
+D:Dono da vila
+D:Chaves sempre recebe ele com uma pancada
+P:professor girafales
+D:personagem
+D:sempre está de chapeu
+D:sempre toma café
+D:Tem vários apelidos
+D:Apaixonado pela Dona Florinda
+D:fuma charuto
+P:chapolin colorado
+D:personagem
+D:Mais rápido que uma tartaruga
+D:mais inteligente que o Asno
+D:Marreta bionica
+D:"Palma Palma, nao priemos cânico"
+D:Parece o Chaves...
+P:rolando lero
+D:personagem
+D:Seu ator nasceu em Mococa
+D:Seu ator fez o Seu Flor, da A Grande Familia
+D:Sempre recebe uma dica do Professor Raimundo
+D:Tem um paninho
+D:"Captei, captei vossa mensagem..."
+P:paulo cintura
+D:personagem
+D:Forte
+D:Bem de saúde
+D:Escolinha do Professor Raimundo
+D:"Saúde é o que interessa, o resto não tem pressa"
+D:"Isáááááá"
+P:dona bela
+D:personagem
+D:Já morreu
+D:Usa um laço
+D:Grita com a pergunta do Professor Raimundo
+D:Escolinha do Professor Raimundo 
+D:"Só pensa, naquilo..."
+P:kick buttowski
+D:personagem
+D:Skate
+D:Tem 10 anos
+D:Audácia é o seu adjetivo
+D:Disney XD
+D:É Pequeno
+P:godinez
+D:personagem
+D:Preguiçoso
+D:Usa suspensório
+D:Fica no fundão da sala
+D:"Quem, eu?"
+D:Irmão do Chaves na vida real
+P:barney
+D:personagem
+D:Grande
+D:Roxo
+D:Dinossauro
+D:Personagem Infantil
+D:"Eu amo você, você me ama"
+P:coragem
+D:personagem
+D:Rosa
+D:Eustácio e Muriel
+D:Sempre salva os seus donos
+D:Cachorro
+D:Covarde
+P:johnny bravo
+D:personagem
+D:Cabelo Grande
+D:Atraído por mulheres
+D:Vaidoso
+D:Forte
+D:Roupa preta
+P:pikachu
+D:personagem
+D:Amarelo
+D:Raio
+D:Ash
+D:Bochecha vermelha
+D:Pókemon
+P:puro osso
+D:personagem
+D:Esqueleto
+D:Usa foice
+D:Orlando Drummond o dubla
+D:Morte
+D:As terríveis aventuras de Billy e Mandy
+P:buzz lightyear
+D:personagem
+D:Patrulheiro Espacial
+D:Brinquedo
+D:Líder
+D:"Ao infinito... e além!"
+D:Toy Story
+P:kowalski
+D:personagem
+D:Inteligente
+D:Pouco habilidoso
+D:Alto
+D:Pinguim
+D:Madagascar
+P:samuel blaustein
+D:personagem
+D:Adora dinheiro
+D:Pão duro
+D:"É melhor zero na nota que prejuízo no bolso"
+D:Usa chapéu
+D:"Fazemos qualquer negócio"
+P:aldemar vigario
+D:personagem
+D:É do Pará
+D:Seus amigos o zoavam de cara de areia mijada
+D:Sempre de bom humor
+D:O seu filho faz agora o seu papel
+D:Olhos esbugalhados
+D:"Quem, quem quem?Raimundo nonato!"
+P:visconde sabugosa
+D:personagem
+D:Foi criado por Monteiro Lobato
+D:Gramático e filósofo
+D:Tomou uma pitada de fermento e ficou do tamanho de uma pessoa normal
+D:Sítio do Pica-pau Amarelo
+D:Sabugo de milho
